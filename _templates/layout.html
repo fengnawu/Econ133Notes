@@ -1,0 +1,11 @@
+{# Import the theme's layout. #}
+{% extends "!layout.html" %}
+
+{% block relbaritems %}
+  <li><a href="/~ealdrich/Teaching/Econ133/">Econ 133 Home</a> &raquo;</li>
+  <li><a href="Econ133.pdf">Download PDF</a> &raquo;</li>
+  <li><a href="/~ealdrich/Teaching/Econ133/Slides/index.html">View Slides</a> &raquo;</li>
+{% endblock %}
+
+{# Custom CSS overrides #}
+{% set bootswatch_css_custom = ['_static/custom.css'] %}

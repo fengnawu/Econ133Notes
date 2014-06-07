@@ -1,0 +1,354 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Probability}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Random Variables}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}Probability Mass Function}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}Probability Density Function}{3}{section.1.3}
+\contentsline {section}{\numberline {1.4}Properties of Distributions}{3}{section.1.4}
+\contentsline {section}{\numberline {1.5}Cumulative Distribution Function}{4}{section.1.5}
+\contentsline {section}{\numberline {1.6}Expected Value}{4}{section.1.6}
+\contentsline {section}{\numberline {1.7}Expected Value}{4}{section.1.7}
+\contentsline {section}{\numberline {1.8}Properties of Expectation}{4}{section.1.8}
+\contentsline {section}{\numberline {1.9}Properties of Expectation - Proof}{5}{section.1.9}
+\contentsline {section}{\numberline {1.10}Variance}{5}{section.1.10}
+\contentsline {section}{\numberline {1.11}Variance}{5}{section.1.11}
+\contentsline {section}{\numberline {1.12}Standard Deviation}{5}{section.1.12}
+\contentsline {section}{\numberline {1.13}Covariance}{6}{section.1.13}
+\contentsline {section}{\numberline {1.14}Covariance}{6}{section.1.14}
+\contentsline {section}{\numberline {1.15}Properties of Variance}{6}{section.1.15}
+\contentsline {section}{\numberline {1.16}Properties of Variance - Proof}{6}{section.1.16}
+\contentsline {section}{\numberline {1.17}Properties of Covariance}{7}{section.1.17}
+\contentsline {section}{\numberline {1.18}Correlation}{7}{section.1.18}
+\contentsline {section}{\numberline {1.19}Normal Distribution}{7}{section.1.19}
+\contentsline {section}{\numberline {1.20}Normal Density}{7}{section.1.20}
+\contentsline {section}{\numberline {1.21}Normal Distribution}{8}{section.1.21}
+\contentsline {section}{\numberline {1.22}Standard Normal Distribution}{8}{section.1.22}
+\contentsline {section}{\numberline {1.23}Standard Normal Distribution - Proof}{9}{section.1.23}
+\contentsline {section}{\numberline {1.24}Standard Normal Distribution - Proof}{9}{section.1.24}
+\contentsline {section}{\numberline {1.25}Sum of Normals}{9}{section.1.25}
+\contentsline {section}{\numberline {1.26}Sample Mean}{9}{section.1.26}
+\contentsline {section}{\numberline {1.27}Sample Mean (Cont.)}{10}{section.1.27}
+\contentsline {section}{\numberline {1.28}Sample Variance}{10}{section.1.28}
+\contentsline {section}{\numberline {1.29}Other Sample Moments}{10}{section.1.29}
+\contentsline {chapter}{\numberline {2}Markets}{11}{chapter.2}
+\contentsline {section}{\numberline {2.1}Asset Classes}{11}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Introduction}{11}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Real vs. Financial Assets}{11}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Equity Assets}{11}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Equity Example}{12}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}Equity Prices}{12}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.6}Present Value}{12}{subsection.2.1.6}
+\contentsline {subsection}{\numberline {2.1.7}Present Value}{12}{subsection.2.1.7}
+\contentsline {subsection}{\numberline {2.1.8}Fixed Income Assets}{12}{subsection.2.1.8}
+\contentsline {subsection}{\numberline {2.1.9}Fixed Income Assets}{13}{subsection.2.1.9}
+\contentsline {subsection}{\numberline {2.1.10}Fixed Income Prices}{13}{subsection.2.1.10}
+\contentsline {subsection}{\numberline {2.1.11}Derivatives}{13}{subsection.2.1.11}
+\contentsline {section}{\numberline {2.2}Indexes and Funds}{13}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Indexes}{13}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Dow Jones}{13}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Dow Jones}{14}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Price-Weighted Indexes}{14}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Price-Weighted Indexes}{14}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.6}Price-Weighted Indexes}{14}{subsection.2.2.6}
+\contentsline {subsection}{\numberline {2.2.7}Splits and Price-Weighted Averages}{15}{subsection.2.2.7}
+\contentsline {subsection}{\numberline {2.2.8}Splits and Price-Weighted Averages}{15}{subsection.2.2.8}
+\contentsline {subsection}{\numberline {2.2.9}Standard and Poor's Composite 500}{15}{subsection.2.2.9}
+\contentsline {subsection}{\numberline {2.2.10}Value-Weighted Indexes}{15}{subsection.2.2.10}
+\contentsline {subsection}{\numberline {2.2.11}Value-Weighted Indexes}{16}{subsection.2.2.11}
+\contentsline {subsection}{\numberline {2.2.12}Value-Weighted Indexes}{16}{subsection.2.2.12}
+\contentsline {subsection}{\numberline {2.2.13}Equally-Weighted Indexes}{16}{subsection.2.2.13}
+\contentsline {subsection}{\numberline {2.2.14}Equally-Weighted Indexes (Cont.)}{16}{subsection.2.2.14}
+\contentsline {subsection}{\numberline {2.2.15}Other Indexes}{16}{subsection.2.2.15}
+\contentsline {section}{\numberline {2.3}Trading}{17}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Exchanges}{17}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Early Trading}{17}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Early Trading}{18}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Early Trading}{19}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Electronic Trading}{20}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.3.6}High-Frequency Trading}{20}{subsection.2.3.6}
+\contentsline {subsection}{\numberline {2.3.7}Exchanges Today}{20}{subsection.2.3.7}
+\contentsline {subsection}{\numberline {2.3.8}Exchanges Today}{21}{subsection.2.3.8}
+\contentsline {subsection}{\numberline {2.3.9}Exchanges Today}{21}{subsection.2.3.9}
+\contentsline {subsection}{\numberline {2.3.10}Exchanges Today}{22}{subsection.2.3.10}
+\contentsline {subsection}{\numberline {2.3.11}Exchanges Today}{22}{subsection.2.3.11}
+\contentsline {subsection}{\numberline {2.3.12}Market Makers}{22}{subsection.2.3.12}
+\contentsline {subsection}{\numberline {2.3.13}Takers}{23}{subsection.2.3.13}
+\contentsline {subsection}{\numberline {2.3.14}Order Book Example: time 1}{23}{subsection.2.3.14}
+\contentsline {subsection}{\numberline {2.3.15}Order Book Example: time 2}{24}{subsection.2.3.15}
+\contentsline {subsection}{\numberline {2.3.16}Order Book Example: time 3}{25}{subsection.2.3.16}
+\contentsline {subsection}{\numberline {2.3.17}Order Book Example: time 4}{26}{subsection.2.3.17}
+\contentsline {subsection}{\numberline {2.3.18}Order Book Example: time 5}{27}{subsection.2.3.18}
+\contentsline {subsection}{\numberline {2.3.19}Buying on Margin}{27}{subsection.2.3.19}
+\contentsline {subsection}{\numberline {2.3.20}Margin Example}{27}{subsection.2.3.20}
+\contentsline {subsection}{\numberline {2.3.21}Margin Example (Cont.)}{28}{subsection.2.3.21}
+\contentsline {subsection}{\numberline {2.3.22}Maintenance Margin}{28}{subsection.2.3.22}
+\contentsline {subsection}{\numberline {2.3.23}Maintenance Margin}{28}{subsection.2.3.23}
+\contentsline {subsection}{\numberline {2.3.24}Why Margins?}{28}{subsection.2.3.24}
+\contentsline {subsection}{\numberline {2.3.25}Why Margins?}{28}{subsection.2.3.25}
+\contentsline {subsection}{\numberline {2.3.26}Why Margins?}{29}{subsection.2.3.26}
+\contentsline {subsection}{\numberline {2.3.27}Why Margins?}{29}{subsection.2.3.27}
+\contentsline {subsection}{\numberline {2.3.28}Short Sales}{29}{subsection.2.3.28}
+\contentsline {subsection}{\numberline {2.3.29}Short Sales}{29}{subsection.2.3.29}
+\contentsline {subsection}{\numberline {2.3.30}Short Sale Example}{29}{subsection.2.3.30}
+\contentsline {chapter}{\numberline {3}Risk and Returns}{31}{chapter.3}
+\contentsline {section}{\numberline {3.1}Rates of Return}{31}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Holding Period Return}{31}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Holding Period Return Example}{31}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Gross and Net Returns}{32}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Gross and Net Returns}{32}{subsection.3.1.4}
+\contentsline {subsection}{\numberline {3.1.5}Multi-period Returns}{32}{subsection.3.1.5}
+\contentsline {subsection}{\numberline {3.1.6}Annualized Returns - EAR}{32}{subsection.3.1.6}
+\contentsline {subsection}{\numberline {3.1.7}Annualized Returns - APR}{32}{subsection.3.1.7}
+\contentsline {subsection}{\numberline {3.1.8}Annualized Returns - Example}{33}{subsection.3.1.8}
+\contentsline {subsection}{\numberline {3.1.9}EAR and APR}{33}{subsection.3.1.9}
+\contentsline {subsection}{\numberline {3.1.10}Continuous Compounding}{33}{subsection.3.1.10}
+\contentsline {subsection}{\numberline {3.1.11}Continuous Compounding}{34}{subsection.3.1.11}
+\contentsline {subsection}{\numberline {3.1.12}Inflation}{34}{subsection.3.1.12}
+\contentsline {subsection}{\numberline {3.1.13}Nominal vs. Real Returns}{34}{subsection.3.1.13}
+\contentsline {subsection}{\numberline {3.1.14}Nominal vs. Real Returns}{34}{subsection.3.1.14}
+\contentsline {subsection}{\numberline {3.1.15}Nominal vs. Real Returns - Proof}{34}{subsection.3.1.15}
+\contentsline {subsection}{\numberline {3.1.16}Nominal vs. Real Returns - Example}{35}{subsection.3.1.16}
+\contentsline {subsection}{\numberline {3.1.17}Expected Inflation}{35}{subsection.3.1.17}
+\contentsline {subsection}{\numberline {3.1.18}Expected Inflation}{35}{subsection.3.1.18}
+\contentsline {section}{\numberline {3.2}Risk and Risk Premiums}{35}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Probabilistic Returns}{35}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Expected Returns}{36}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Return Volatility}{36}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Expectation and Variance Example}{36}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Assumption of Normality}{37}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}Differing Normal Distributions}{37}{subsection.3.2.6}
+\contentsline {subsection}{\numberline {3.2.7}Amazon Distribution}{37}{subsection.3.2.7}
+\contentsline {subsection}{\numberline {3.2.8}Coca-Cola Distribution}{38}{subsection.3.2.8}
+\contentsline {subsection}{\numberline {3.2.9}Implications of Normality}{38}{subsection.3.2.9}
+\contentsline {subsection}{\numberline {3.2.10}Estimating Means and Volatilities}{38}{subsection.3.2.10}
+\contentsline {subsection}{\numberline {3.2.11}Estimating Means and Volatilities}{39}{subsection.3.2.11}
+\contentsline {subsection}{\numberline {3.2.12}Estimating Means and Volatilities - Example}{39}{subsection.3.2.12}
+\contentsline {subsection}{\numberline {3.2.13}Amazon Monthly Prices}{39}{subsection.3.2.13}
+\contentsline {subsection}{\numberline {3.2.14}Coca-Cola Monthly Prices}{40}{subsection.3.2.14}
+\contentsline {subsection}{\numberline {3.2.15}Computing Returns and Moments}{40}{subsection.3.2.15}
+\contentsline {subsection}{\numberline {3.2.16}Risk-Free Returns}{40}{subsection.3.2.16}
+\contentsline {subsection}{\numberline {3.2.17}T-Bills as Risk-Free Assets}{41}{subsection.3.2.17}
+\contentsline {subsection}{\numberline {3.2.18}Compensation for Risk}{41}{subsection.3.2.18}
+\contentsline {subsection}{\numberline {3.2.19}Risk Premium \& Excess Returns}{41}{subsection.3.2.19}
+\contentsline {subsection}{\numberline {3.2.20}Risk Premium \& Excess Returns}{41}{subsection.3.2.20}
+\contentsline {subsection}{\numberline {3.2.21}Sharpe Ratio}{41}{subsection.3.2.21}
+\contentsline {subsection}{\numberline {3.2.22}Risk Premium Example}{42}{subsection.3.2.22}
+\contentsline {chapter}{\numberline {4}Portfolio Optimization}{43}{chapter.4}
+\contentsline {section}{\numberline {4.1}Asset Allocation}{43}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Utility}{43}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Certainty Equivalent}{43}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Risk Aversion}{43}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Risk Aversion}{43}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Mean-Variance Criterion}{44}{subsection.4.1.5}
+\contentsline {subsection}{\numberline {4.1.6}Mean-Variance Criterion}{44}{subsection.4.1.6}
+\contentsline {subsection}{\numberline {4.1.7}Indifference Curves}{44}{subsection.4.1.7}
+\contentsline {subsection}{\numberline {4.1.8}Indifference Curves}{44}{subsection.4.1.8}
+\contentsline {subsection}{\numberline {4.1.9}Indifference Curve Plot}{45}{subsection.4.1.9}
+\contentsline {subsection}{\numberline {4.1.10}Portfolios of Assets}{45}{subsection.4.1.10}
+\contentsline {subsection}{\numberline {4.1.11}Portfolio Return}{45}{subsection.4.1.11}
+\contentsline {subsection}{\numberline {4.1.12}Portfolio Return}{46}{subsection.4.1.12}
+\contentsline {subsection}{\numberline {4.1.13}Portfolio Volatility}{46}{subsection.4.1.13}
+\contentsline {subsection}{\numberline {4.1.14}Portfolios and Risk Aversion}{46}{subsection.4.1.14}
+\contentsline {subsection}{\numberline {4.1.15}Portfolio Weight}{47}{subsection.4.1.15}
+\contentsline {subsection}{\numberline {4.1.16}Sharpe Ratio}{47}{subsection.4.1.16}
+\contentsline {subsection}{\numberline {4.1.17}Capital Allocation Line}{47}{subsection.4.1.17}
+\contentsline {subsection}{\numberline {4.1.18}Capital Allocation Line Example}{47}{subsection.4.1.18}
+\contentsline {subsection}{\numberline {4.1.19}Capital Allocation Line Plot}{48}{subsection.4.1.19}
+\contentsline {subsection}{\numberline {4.1.20}Simple Portfolio Choice}{48}{subsection.4.1.20}
+\contentsline {subsection}{\numberline {4.1.21}Simple Portfolio Choice (Cont.)}{48}{subsection.4.1.21}
+\contentsline {subsection}{\numberline {4.1.22}Simple Portfolio Choice}{49}{subsection.4.1.22}
+\contentsline {subsection}{\numberline {4.1.23}Simple Portfolio Choice}{49}{subsection.4.1.23}
+\contentsline {subsection}{\numberline {4.1.24}Spreadsheet Optimization}{49}{subsection.4.1.24}
+\contentsline {subsection}{\numberline {4.1.25}Graphical Optimization}{49}{subsection.4.1.25}
+\contentsline {subsection}{\numberline {4.1.26}Capital Market Line}{50}{subsection.4.1.26}
+\contentsline {subsection}{\numberline {4.1.27}Passive vs. Active Strategies}{50}{subsection.4.1.27}
+\contentsline {section}{\numberline {4.2}Portfolio Optimization}{51}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Types of Risk}{51}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Benefits of Diversification}{51}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Benefits of Diversification}{51}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Benefits of Diversification}{51}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Limits to Diversification}{51}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}Limits to Diversification}{51}{subsection.4.2.6}
+\contentsline {subsection}{\numberline {4.2.7}Portfolios of Two Risky Assets}{52}{subsection.4.2.7}
+\contentsline {subsection}{\numberline {4.2.8}Returns to Portfolios of Risky Assets}{52}{subsection.4.2.8}
+\contentsline {subsection}{\numberline {4.2.9}Covariance Matrix}{53}{subsection.4.2.9}
+\contentsline {subsection}{\numberline {4.2.10}Correlation}{53}{subsection.4.2.10}
+\contentsline {subsection}{\numberline {4.2.11}Portfolio Variance}{53}{subsection.4.2.11}
+\contentsline {subsection}{\numberline {4.2.12}Portfolio Standard Deviation}{53}{subsection.4.2.12}
+\contentsline {subsection}{\numberline {4.2.13}Portfolio Variance}{53}{subsection.4.2.13}
+\contentsline {subsection}{\numberline {4.2.14}Portfolio Variance Lower Bound}{54}{subsection.4.2.14}
+\contentsline {subsection}{\numberline {4.2.15}Portfolio Variance Lower Bound}{54}{subsection.4.2.15}
+\contentsline {subsection}{\numberline {4.2.16}Portfolio Frontier}{55}{subsection.4.2.16}
+\contentsline {subsection}{\numberline {4.2.17}Portfolios of Three Assets}{55}{subsection.4.2.17}
+\contentsline {subsection}{\numberline {4.2.18}Efficient Frontier}{56}{subsection.4.2.18}
+\contentsline {subsection}{\numberline {4.2.19}Optimal CAL}{56}{subsection.4.2.19}
+\contentsline {subsection}{\numberline {4.2.20}Optimal CAL}{57}{subsection.4.2.20}
+\contentsline {subsection}{\numberline {4.2.21}Optimal CAL}{57}{subsection.4.2.21}
+\contentsline {subsection}{\numberline {4.2.22}Tangeny Portfolio}{58}{subsection.4.2.22}
+\contentsline {subsection}{\numberline {4.2.23}Optimal CAL}{58}{subsection.4.2.23}
+\contentsline {subsection}{\numberline {4.2.24}Investor Choice}{59}{subsection.4.2.24}
+\contentsline {subsection}{\numberline {4.2.25}Investor Choice}{59}{subsection.4.2.25}
+\contentsline {section}{\numberline {4.3}Portfolio Optimization with Many Risky Assets}{59}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Portfolio Returns}{59}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Portfolio Moments}{59}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Portfolio Moments}{60}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Portfolio Moments}{60}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}Optimization: Risky MV Frontier}{60}{subsection.4.3.5}
+\contentsline {subsection}{\numberline {4.3.6}Optimization: Risky MV Frontier}{60}{subsection.4.3.6}
+\contentsline {subsection}{\numberline {4.3.7}Risky Minimum-Variance Frontier}{61}{subsection.4.3.7}
+\contentsline {subsection}{\numberline {4.3.8}Risky Minimum-Variance Frontier}{61}{subsection.4.3.8}
+\contentsline {subsection}{\numberline {4.3.9}Efficient Minimum-Variance Frontier}{61}{subsection.4.3.9}
+\contentsline {subsection}{\numberline {4.3.10}Optimization: Efficient MV Frontier}{62}{subsection.4.3.10}
+\contentsline {subsection}{\numberline {4.3.11}Optimization: Investor Choice}{62}{subsection.4.3.11}
+\contentsline {subsection}{\numberline {4.3.12}Estimation}{63}{subsection.4.3.12}
+\contentsline {subsection}{\numberline {4.3.13}Estimation}{63}{subsection.4.3.13}
+\contentsline {subsection}{\numberline {4.3.14}Estimation}{63}{subsection.4.3.14}
+\contentsline {subsection}{\numberline {4.3.15}Portfolio Optimization Recipe}{63}{subsection.4.3.15}
+\contentsline {subsection}{\numberline {4.3.16}Portfolio Optimization Recipe}{63}{subsection.4.3.16}
+\contentsline {subsection}{\numberline {4.3.17}Separation Property}{64}{subsection.4.3.17}
+\contentsline {subsection}{\numberline {4.3.18}Separation Property}{64}{subsection.4.3.18}
+\contentsline {subsection}{\numberline {4.3.19}Separation Property}{64}{subsection.4.3.19}
+\contentsline {subsection}{\numberline {4.3.20}The Power of Diversification}{64}{subsection.4.3.20}
+\contentsline {subsection}{\numberline {4.3.21}The Power of Diversification}{64}{subsection.4.3.21}
+\contentsline {subsection}{\numberline {4.3.22}The Power of Diversification}{65}{subsection.4.3.22}
+\contentsline {chapter}{\numberline {5}Index Models}{67}{chapter.5}
+\contentsline {section}{\numberline {5.1}Motivation}{67}{section.5.1}
+\contentsline {section}{\numberline {5.2}Motivation}{67}{section.5.2}
+\contentsline {section}{\numberline {5.3}Single-Factor Model}{67}{section.5.3}
+\contentsline {section}{\numberline {5.4}Single-Factor Model}{68}{section.5.4}
+\contentsline {section}{\numberline {5.5}Decomposing Risk}{68}{section.5.5}
+\contentsline {section}{\numberline {5.6}Decomposing Risk}{68}{section.5.6}
+\contentsline {section}{\numberline {5.7}Using an Index as a Factor}{68}{section.5.7}
+\contentsline {section}{\numberline {5.8}Using an Index as a Factor}{69}{section.5.8}
+\contentsline {section}{\numberline {5.9}Single-Index Model}{69}{section.5.9}
+\contentsline {section}{\numberline {5.10}Single-Index Model}{69}{section.5.10}
+\contentsline {section}{\numberline {5.11}Expected Return-Beta Relationship}{69}{section.5.11}
+\contentsline {section}{\numberline {5.12}Why $\alpha $ Must Be Zero}{70}{section.5.12}
+\contentsline {section}{\numberline {5.13}Single-Index Regression}{70}{section.5.13}
+\contentsline {section}{\numberline {5.14}Security Characteristic Line}{70}{section.5.14}
+\contentsline {section}{\numberline {5.15}Security Characteristic Line}{70}{section.5.15}
+\contentsline {section}{\numberline {5.16}Advantages of the Model}{70}{section.5.16}
+\contentsline {section}{\numberline {5.17}Advantages of the Model}{71}{section.5.17}
+\contentsline {section}{\numberline {5.18}Advantages of the Model}{71}{section.5.18}
+\contentsline {section}{\numberline {5.19}Advantages of the Model}{71}{section.5.19}
+\contentsline {section}{\numberline {5.20}Cost of the Model}{71}{section.5.20}
+\contentsline {section}{\numberline {5.21}Index Model Portfolios}{72}{section.5.21}
+\contentsline {section}{\numberline {5.22}Index Model Portfolio Coefficients}{72}{section.5.22}
+\contentsline {section}{\numberline {5.23}Index Model Portfolio Risk}{72}{section.5.23}
+\contentsline {section}{\numberline {5.24}Index Model Portfolio Risk}{72}{section.5.24}
+\contentsline {section}{\numberline {5.25}Index Model Diversification}{73}{section.5.25}
+\contentsline {section}{\numberline {5.26}Index Model Diversification}{73}{section.5.26}
+\contentsline {section}{\numberline {5.27}Index Model Diversification}{73}{section.5.27}
+\contentsline {section}{\numberline {5.28}Index Model Example}{74}{section.5.28}
+\contentsline {section}{\numberline {5.29}Index Model Example}{74}{section.5.29}
+\contentsline {section}{\numberline {5.30}Index Model Example}{75}{section.5.30}
+\contentsline {section}{\numberline {5.31}Index Model Example}{76}{section.5.31}
+\contentsline {chapter}{\numberline {6}Bonds}{77}{chapter.6}
+\contentsline {section}{\numberline {6.1}Bond Prices and Yields}{77}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Bond Basics}{77}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Coupons}{77}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Bond Example}{77}{subsection.6.1.3}
+\contentsline {subsection}{\numberline {6.1.4}Government Bonds}{78}{subsection.6.1.4}
+\contentsline {subsection}{\numberline {6.1.5}Government Bonds}{78}{subsection.6.1.5}
+\contentsline {subsection}{\numberline {6.1.6}Corporate Bonds}{78}{subsection.6.1.6}
+\contentsline {subsection}{\numberline {6.1.7}Treasury Inflation Protected Securities}{79}{subsection.6.1.7}
+\contentsline {subsection}{\numberline {6.1.8}TIPS Example}{79}{subsection.6.1.8}
+\contentsline {subsection}{\numberline {6.1.9}TIPS Example}{79}{subsection.6.1.9}
+\contentsline {subsection}{\numberline {6.1.10}TIPS Example}{79}{subsection.6.1.10}
+\contentsline {subsection}{\numberline {6.1.11}TIPS Example}{80}{subsection.6.1.11}
+\contentsline {subsection}{\numberline {6.1.12}TIPS Example}{80}{subsection.6.1.12}
+\contentsline {subsection}{\numberline {6.1.13}STRIPS}{80}{subsection.6.1.13}
+\contentsline {subsection}{\numberline {6.1.14}Discounting Cash Flows}{80}{subsection.6.1.14}
+\contentsline {subsection}{\numberline {6.1.15}Discounting Cash Flows}{80}{subsection.6.1.15}
+\contentsline {subsection}{\numberline {6.1.16}Geometric Series}{81}{subsection.6.1.16}
+\contentsline {subsection}{\numberline {6.1.17}Bond Pricing}{81}{subsection.6.1.17}
+\contentsline {subsection}{\numberline {6.1.18}Bond Pricing}{81}{subsection.6.1.18}
+\contentsline {subsection}{\numberline {6.1.19}Bond Pricing}{81}{subsection.6.1.19}
+\contentsline {subsection}{\numberline {6.1.20}Bond Value Formula}{82}{subsection.6.1.20}
+\contentsline {subsection}{\numberline {6.1.21}Value vs. Price}{82}{subsection.6.1.21}
+\contentsline {subsection}{\numberline {6.1.22}Bond Pricing Example}{82}{subsection.6.1.22}
+\contentsline {subsection}{\numberline {6.1.23}Bond Pricing Example}{83}{subsection.6.1.23}
+\contentsline {subsection}{\numberline {6.1.24}Prices and Yields}{83}{subsection.6.1.24}
+\contentsline {subsection}{\numberline {6.1.25}Prices and Yields}{83}{subsection.6.1.25}
+\contentsline {subsection}{\numberline {6.1.26}Prices and Yields}{83}{subsection.6.1.26}
+\contentsline {subsection}{\numberline {6.1.27}Coupon Rate and Yield}{84}{subsection.6.1.27}
+\contentsline {subsection}{\numberline {6.1.28}Coupon Rate and Yield}{84}{subsection.6.1.28}
+\contentsline {subsection}{\numberline {6.1.29}Coupon Rate and Yield}{84}{subsection.6.1.29}
+\contentsline {subsection}{\numberline {6.1.30}Coupon Rate and Yield}{84}{subsection.6.1.30}
+\contentsline {subsection}{\numberline {6.1.31}Interest Rate Risk}{84}{subsection.6.1.31}
+\contentsline {subsection}{\numberline {6.1.32}Interest Rate Risk}{84}{subsection.6.1.32}
+\contentsline {subsection}{\numberline {6.1.33}Maturity Risk}{85}{subsection.6.1.33}
+\contentsline {subsection}{\numberline {6.1.34}Maturity Risk}{85}{subsection.6.1.34}
+\contentsline {subsection}{\numberline {6.1.35}Bond Prices Over Time}{85}{subsection.6.1.35}
+\contentsline {subsection}{\numberline {6.1.36}Bond Prices Over Time}{85}{subsection.6.1.36}
+\contentsline {section}{\numberline {6.2}The Term Structure of Interest Rates}{85}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Yield Curve}{85}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Yield Curve Slope}{86}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Yield Curve Slope}{86}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}Two Investment Strategies}{86}{subsection.6.2.4}
+\contentsline {subsection}{\numberline {6.2.5}Spot Rates and Short Rates}{87}{subsection.6.2.5}
+\contentsline {subsection}{\numberline {6.2.6}Spot Rates and Short Rates}{87}{subsection.6.2.6}
+\contentsline {subsection}{\numberline {6.2.7}Spot Rates and Short Rates}{88}{subsection.6.2.7}
+\contentsline {subsection}{\numberline {6.2.8}Spot Rate and Short Rate Example}{88}{subsection.6.2.8}
+\contentsline {subsection}{\numberline {6.2.9}Spot Rate and Short Rate Example}{88}{subsection.6.2.9}
+\contentsline {subsection}{\numberline {6.2.10}Spot Rate and Short Rate Example}{88}{subsection.6.2.10}
+\contentsline {subsection}{\numberline {6.2.11}Spot Rate and Short Rate Example}{88}{subsection.6.2.11}
+\contentsline {subsection}{\numberline {6.2.12}General Short Rates}{89}{subsection.6.2.12}
+\contentsline {subsection}{\numberline {6.2.13}Forward Rates}{89}{subsection.6.2.13}
+\contentsline {subsection}{\numberline {6.2.14}Forward Rates}{89}{subsection.6.2.14}
+\contentsline {subsection}{\numberline {6.2.15}Expectations Hypothesis}{90}{subsection.6.2.15}
+\contentsline {subsection}{\numberline {6.2.16}Liquidity Preference Theory}{90}{subsection.6.2.16}
+\contentsline {subsection}{\numberline {6.2.17}Liquidity Preference Theory}{90}{subsection.6.2.17}
+\contentsline {subsection}{\numberline {6.2.18}Liquidity Preference Example}{90}{subsection.6.2.18}
+\contentsline {subsection}{\numberline {6.2.19}Liquidity Preference Example}{90}{subsection.6.2.19}
+\contentsline {subsection}{\numberline {6.2.20}Expectations Hypothesis Example}{91}{subsection.6.2.20}
+\contentsline {subsection}{\numberline {6.2.21}Implications of the Theories}{91}{subsection.6.2.21}
+\contentsline {subsection}{\numberline {6.2.22}Implications of the Theories}{91}{subsection.6.2.22}
+\contentsline {subsection}{\numberline {6.2.23}Exp. Hypothesis vs. Liquidity Pref Theory}{91}{subsection.6.2.23}
+\contentsline {subsection}{\numberline {6.2.24}Historical Term Spread}{92}{subsection.6.2.24}
+\contentsline {chapter}{\numberline {7}Options}{95}{chapter.7}
+\contentsline {section}{\numberline {7.1}Call Options}{95}{section.7.1}
+\contentsline {section}{\numberline {7.2}Call Options}{95}{section.7.2}
+\contentsline {section}{\numberline {7.3}Call Options}{95}{section.7.3}
+\contentsline {section}{\numberline {7.4}Call Options}{95}{section.7.4}
+\contentsline {section}{\numberline {7.5}Call Option Example}{96}{section.7.5}
+\contentsline {section}{\numberline {7.6}Call Option Example}{96}{section.7.6}
+\contentsline {section}{\numberline {7.7}Put Options}{96}{section.7.7}
+\contentsline {section}{\numberline {7.8}Put Options}{96}{section.7.8}
+\contentsline {section}{\numberline {7.9}Put Option Example}{96}{section.7.9}
+\contentsline {section}{\numberline {7.10}Put Option Example}{97}{section.7.10}
+\contentsline {section}{\numberline {7.11}Moneyness}{97}{section.7.11}
+\contentsline {section}{\numberline {7.12}American vs. European}{97}{section.7.12}
+\contentsline {section}{\numberline {7.13}Notation}{97}{section.7.13}
+\contentsline {section}{\numberline {7.14}Call Option Payoff (Buyer)}{98}{section.7.14}
+\contentsline {section}{\numberline {7.15}Call Option Payoff (Buyer)}{98}{section.7.15}
+\contentsline {section}{\numberline {7.16}Call Option Payoff (Buyer}{98}{section.7.16}
+\contentsline {section}{\numberline {7.17}Call Option Payoff (Seller)}{99}{section.7.17}
+\contentsline {section}{\numberline {7.18}Call Option Payoff (Seller)}{99}{section.7.18}
+\contentsline {section}{\numberline {7.19}Put Option Payoff (Buyer)}{99}{section.7.19}
+\contentsline {section}{\numberline {7.20}Put Option Payoff (Buyer)}{100}{section.7.20}
+\contentsline {section}{\numberline {7.21}Put Option Payoff (Buyer)}{100}{section.7.21}
+\contentsline {section}{\numberline {7.22}Speculation and Hedging}{100}{section.7.22}
+\contentsline {section}{\numberline {7.23}Speculation and Hedging}{100}{section.7.23}
+\contentsline {section}{\numberline {7.24}Speculation and Hedging}{101}{section.7.24}
+\contentsline {section}{\numberline {7.25}Speculation and Hedging}{101}{section.7.25}
+\contentsline {section}{\numberline {7.26}Speculation and Hedging}{101}{section.7.26}
+\contentsline {section}{\numberline {7.27}Speculation and Hedging}{102}{section.7.27}
+\contentsline {section}{\numberline {7.28}Speculation and Hedging}{102}{section.7.28}
+\contentsline {section}{\numberline {7.29}Protective Put}{102}{section.7.29}
+\contentsline {section}{\numberline {7.30}Protective Put}{103}{section.7.30}
+\contentsline {section}{\numberline {7.31}Protective Put}{103}{section.7.31}
+\contentsline {section}{\numberline {7.32}Protective Put}{104}{section.7.32}
+\contentsline {section}{\numberline {7.33}Covered Call}{105}{section.7.33}
+\contentsline {section}{\numberline {7.34}Covered Call}{106}{section.7.34}
+\contentsline {section}{\numberline {7.35}Straddle}{106}{section.7.35}
+\contentsline {section}{\numberline {7.36}Straddle}{107}{section.7.36}
+\contentsline {section}{\numberline {7.37}Straddle}{107}{section.7.37}
+\contentsline {section}{\numberline {7.38}Spread}{108}{section.7.38}
+\contentsline {section}{\numberline {7.39}Bullish Spread}{109}{section.7.39}
+\contentsline {section}{\numberline {7.40}Bullish Spread}{109}{section.7.40}
+\contentsline {section}{\numberline {7.41}Collar}{110}{section.7.41}
+\contentsline {section}{\numberline {7.42}Protective Put Alternative}{111}{section.7.42}
+\contentsline {section}{\numberline {7.43}Put Call Parity}{111}{section.7.43}
+\contentsline {section}{\numberline {7.44}Put Call Parity Example}{111}{section.7.44}
+\contentsline {section}{\numberline {7.45}Put Call Parity Example}{112}{section.7.45}
+\contentsline {section}{\numberline {7.46}Put Call Parity Example}{112}{section.7.46}
